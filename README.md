@@ -97,7 +97,7 @@ python eval.py --experiment=$EMNIST_STAGE2A_S0
 
 ## Exporting datasets
 
-If you would prefer to simply use the exact same dataset splits we used without running our code, this is also possible. The following [Google Drive link](todo)  provides access to each dataset used as well as their splits. Each pkl has the naming convention `{dataset}-s{seed}-{res}px-k{kshot}-{split}.pkl`. For example, these files correspond to EMNIST with `seed=0`, 32px resolution, and `k_shot=5`:
+If you would prefer to simply use the exact same dataset splits we used without running our code, this is also possible. The following [Google Drive link](https://mega.nz/folder/gWRlSKrb#AErTo0pwQv2y3KW0hkTLAA)  provides access to each dataset used as well as their splits. Each pkl has the naming convention `{dataset}-s{seed}-{res}px-k{kshot}-{split}.pkl`. For example, these files correspond to EMNIST with `seed=0`, 32px resolution, and `k_shot=5`:
 
 ```
 emnist_fs-s0-32px-k5-train.pkl
